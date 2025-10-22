@@ -1,0 +1,47 @@
+{
+  "60X05466X49455026": {
+    "payer_info": {
+      "first_name": "Blue",
+      "last_name": "EL",
+      "full_name": "Blue EL",
+      "email": "thisbluepower1@gmail.com",
+      "payer_id": "58QFSPVX6L2Q6",
+      "payer_status": "unverified",
+      "residence_country": "FR"
+    },
+    "address_info": {
+      "street": "7 All. du Colza",
+      "city": "Neuville-en-Ferrain",
+      "state": "",
+      "zip": "59960",
+      "country": "France",
+      "country_code": "FR",
+      "address_status": "unconfirmed"
+    },
+    "payment_info": {
+      "transaction_id": "60X05466X49455026",
+      "payment_status": "Completed",
+      "payment_type": "instant",
+      "payment_date": "14:26:59 Oct 22, 2025 PDT",
+      "payment_gross": "0.02",
+      "mc_gross": "0.02",
+      "mc_currency": "USD",
+      "payment_fee": "0.02",
+      "mc_fee": "0.02",
+      "txn_type": "send_money",
+      "transaction_subject": ""
+    },
+    "receiver_info": {
+      "receiver_email": "adam.le.idrissi@gmail.com",
+      "receiver_id": "LP2QK6W7CUB3C",
+      "business": "adam.le.idrissi@gmail.com"
+    },
+    "system_info": {
+      "ipn_track_id": "f8054069acd02",
+      "notify_version": "3.9",
+      "charset": "UTF-8",
+      "verify_sign": "AogU5iP7uw6pAqiU89cjntBCmShrAw7fnUlCRZTTL9RXIJ3uCWcy-rNR",
+      "protection_eligibility": "Eligible"
+    }
+  }
+}
