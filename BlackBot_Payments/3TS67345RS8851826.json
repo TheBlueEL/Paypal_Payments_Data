@@ -1,0 +1,47 @@
+{
+  "3TS67345RS8851826": {
+    "payer_info": {
+      "first_name": "Prénom",
+      "last_name": "Nom",
+      "full_name": "Prénom Nom",
+      "email": "rebsijo@yahoo.fr",
+      "payer_id": "97G95G72UULJQ",
+      "payer_status": "verified",
+      "residence_country": "FR"
+    },
+    "address_info": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "zip": "",
+      "country": "",
+      "country_code": "",
+      "address_status": ""
+    },
+    "payment_info": {
+      "transaction_id": "3TS67345RS8851826",
+      "payment_status": "Completed",
+      "payment_type": "instant",
+      "payment_date": "13:43:12 Oct 28, 2025 PDT",
+      "payment_gross": "0.01",
+      "mc_gross": "0.01",
+      "mc_currency": "USD",
+      "payment_fee": "",
+      "mc_fee": "",
+      "txn_type": "send_money",
+      "transaction_subject": ""
+    },
+    "receiver_info": {
+      "receiver_email": "adam.le.idrissi@gmail.com",
+      "receiver_id": "LP2QK6W7CUB3C",
+      "business": "adam.le.idrissi@gmail.com"
+    },
+    "system_info": {
+      "ipn_track_id": "534b743f72491",
+      "notify_version": "3.9",
+      "charset": "UTF-8",
+      "verify_sign": "Ai3W4vSbWljU.fDZYl94Qyo-3W3pAyBRTOPfMgxIrgYSJMO93r5v-ENM",
+      "protection_eligibility": "Ineligible"
+    }
+  }
+}
