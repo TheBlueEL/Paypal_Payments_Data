@@ -1,0 +1,47 @@
+{
+  "23T12466JY4666908": {
+    "payer_info": {
+      "first_name": "Prénom",
+      "last_name": "Nom",
+      "full_name": "Prénom Nom",
+      "email": "rebsijo@yahoo.fr",
+      "payer_id": "97G95G72UULJQ",
+      "payer_status": "unverified",
+      "residence_country": "FR"
+    },
+    "address_info": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "zip": "",
+      "country": "",
+      "country_code": "",
+      "address_status": ""
+    },
+    "payment_info": {
+      "transaction_id": "23T12466JY4666908",
+      "payment_status": "Completed",
+      "payment_type": "instant",
+      "payment_date": "15:46:53 Oct 13, 2025 PDT",
+      "payment_gross": "13.01",
+      "mc_gross": "13.01",
+      "mc_currency": "USD",
+      "payment_fee": "",
+      "mc_fee": "",
+      "txn_type": "send_money",
+      "transaction_subject": ""
+    },
+    "receiver_info": {
+      "receiver_email": "jailbreakrichness@gmail.com",
+      "receiver_id": "DNYT9MNHENADJ",
+      "business": "jailbreakrichness@gmail.com"
+    },
+    "system_info": {
+      "ipn_track_id": "f3a1254d27194",
+      "notify_version": "3.9",
+      "charset": "UTF-8",
+      "verify_sign": "AaYCiChX4RAov448Psla3L41XCOdAUcpxTpp45Y6lWSs.FmtAg6jZo.X",
+      "protection_eligibility": "Ineligible"
+    }
+  }
+}
